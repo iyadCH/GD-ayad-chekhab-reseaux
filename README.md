@@ -28,11 +28,3 @@ This project is for **educational and research purposes only**. **Do not deploy 
 ## 🏴‍☠️ Why "Taghut"?
 The name **Taghut** (طاغوت) means “tyranny” or “oppression,” symbolizing **the power of cyber threats** and **the necessity of countermeasures**. It serves as a reminder that **knowledge is power**, and understanding threats is key to stopping them.
 
-## 🤝 Contributing
-Ethical hackers and researchers are welcome to contribute by:
-- Enhancing detection signatures
-- Improving sandbox evasion techniques
-- Developing new cybersecurity countermeasures
-
-## 📜 License
-This project is open-source under the **MIT License** and should only be used for ethical research and cybersecurity education.
