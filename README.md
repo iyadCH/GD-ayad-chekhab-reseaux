@@ -1,8 +1,8 @@
 # Grand devoir - Ayad CHEKHAB reseaux des systemes S1
 For Project, Cisco Packet Tracer lab that simulates a small office network with multiple departments, routers, switches, PCs, printers, and a server.  
 ## Screenshots:
-
-
+![alt text](cc1.png)
+![alt text](cc2.png)
 ## Topology Overview
 
 The network is divided into several subnets:
