@@ -39,5 +39,3 @@ Each subnet has its own switch and default gateway on a router interface.
 5. Try to intentionally break something (wrong IP, wrong gateway) and then fix it.
 
 
-This project is for educational use only. You are free to copy and modify it for your own learning or school projects.
-
